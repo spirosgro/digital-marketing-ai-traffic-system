@@ -1,0 +1,15 @@
+{
+  "scenario": "synthetic_b2g_traffic_marketing",
+  "currency": "EUR",
+  "budget_eur": 60000,
+  "minimum_channel_share_pct": 10,
+  "maximum_channel_share_pct": 30,
+  "score_weights": {
+    "engagement": 20,
+    "lead_efficiency": 25,
+    "opportunity_efficiency": 25,
+    "strategic_fit": 20,
+    "data_confidence": 10
+  },
+  "human_approval_required": true
+}

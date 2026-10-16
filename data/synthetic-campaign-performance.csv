@@ -1,0 +1,7 @@
+campaign_id,channel,campaign,audience,spend_eur,impressions,clicks,landing_sessions,engaged_sessions,form_starts,qualified_leads,opportunities,pilot_commitments,strategic_fit,data_confidence
+C01,LinkedIn,mobility-outcomes,Municipal executives,14600,245000,3920,3480,2110,244,54,16,4,5,4
+C02,Search,smart-traffic-intent,Urban mobility teams,12600,112000,5040,4610,2990,318,62,14,3,4,5
+C03,Email,pilot-readiness,Named public buyers,6200,28500,2580,2290,1710,264,66,22,6,5,5
+C04,Webinars,evidence-before-scale,Cross-functional buying committees,9800,36000,1440,1290,1030,208,58,20,5,5,4
+C05,Innovation platforms,eu-mobility-demo,Innovation and funding teams,7800,52000,1190,1080,730,124,31,11,3,4,3
+C06,Trade media,sustainable-city-proof,Smart city ecosystem,9000,184000,2380,1960,920,88,19,5,1,3,3

@@ -1,0 +1,7 @@
+campaign_id,channel,score,recommended_budget_share_pct,recommended_budget_eur,decision_status
+C03,Email,91.04,19.7,11820.0,human review required
+C04,Webinars,82.28,20.2,12120.0,human review required
+C02,Search,70.07,17.2,10320.0,human review required
+C01,LinkedIn,67.22,16.5,9900.0,human review required
+C05,Innovation platforms,66.9,16.4,9840.0,human review required
+C06,Trade media,30.52,10,6000.0,human review required

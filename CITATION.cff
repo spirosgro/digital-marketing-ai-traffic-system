@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this portfolio case study, please cite it."
+title: "Digital Marketing for an AI Traffic Management System"
+type: software
+authors:
+  - family-names: "Grouztidis"
+    given-names: "Spiros"
+version: 1.0.0
+date-released: 2026-10-16
+license: CC-BY-4.0
