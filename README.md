@@ -1,6 +1,5 @@
 # Digital Marketing for an AI Traffic Management System
 
-[![Repository validation](https://github.com/spirosgro/digital-marketing-ai-traffic-system/actions/workflows/validate.yml/badge.svg)](https://github.com/spirosgro/digital-marketing-ai-traffic-system/actions/workflows/validate.yml)
 ![Documentation license](https://img.shields.io/badge/docs-CC%20BY%204.0-5A4AE3)
 ![Code license](https://img.shields.io/badge/code-MIT-18A999)
 ![Data](https://img.shields.io/badge/data-synthetic-0B2239)
